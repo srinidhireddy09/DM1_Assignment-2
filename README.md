@@ -8,7 +8,10 @@ This project focuses on classifying four dog breeds using edge histograms derive
 - Scottish Deerhound
 
 The dataset is processed to extract edge features, which are then used to train and evaluate multiple classification algorithms, including Naive Bayes, Decision Trees, and Random Forests. Additionally, a Support Vector Machine (SVM) model is evaluated for a binary classification scenario.
-
+ 
+ Dataset link:
+ http://vision.stanford.edu/aditya86/ImageNetDogs/
+ 
 ## Table of Contents
 - Requirements
 - Dataset Preparation
