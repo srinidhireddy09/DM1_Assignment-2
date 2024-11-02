@@ -20,9 +20,6 @@ The dataset is processed to extract edge features, which are then used to train 
 - Python 3.x
 - Libraries: `numpy`, `opencv-python`, `scikit-learn`, `matplotlib`, `seaborn`
 
-You can install the required libraries using:
-```bash
-pip install numpy opencv-python scikit-learn matplotlib seaborn
 
 ## Dataset Preparation
 
